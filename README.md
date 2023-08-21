@@ -1,3 +1,3 @@
 # Projeto integrador
 
-**Autor:** Anderson Roberto Deizepe
+**Autor:** Anderson Roberto Deizepe.
